@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "author": "Soheil Seyedi",
+      "title": "Open Party With Friends",
+      "body": "this is a open Party with react js for blog",
+      "id": 1
+    }
+  ]
+}
